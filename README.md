@@ -25,7 +25,7 @@ Ensure you have the following installed on your system:
 Clone this repository to your local machine:
 
 ```bash
-[git clone https://github.com/yourusername/yourrepository.git](https://github.com/Rehaan777/AutoHack-Ethical-.git)
+[git clone (https://github.com/Rehaan777/AutoHack-Ethical-.git)
 In the downloaded directory,execute this command
 msfconsoleauto.sh
 
